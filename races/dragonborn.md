@@ -40,6 +40,9 @@ ANCESTRAL DRACÔNICO
 | Verde |Veneno |Cone de 4,5m (teste de Con)|
 | Vermelho |Fogo |Cone de 4,5m (teste de Des)|
 
+![picture 1](../images/6ba0517fb34d89048d1593ad6a59bb71bc2e3485208f359e01a197a59cce2985.png)  
+![picture 2](../images/7300f649bdaea79968602f4990db2555e523b2e79c8f619b69ecf3ca0ae076cf.png)  
+
 ## Origens e Cidades
 
-Os draconatos nâo sao originarios do continente de Faerun e sim 
+Os draconatos nâo sao originarios do planeta de Toril e sim do seu planeta gemeo Abeir. Durante a Spellplague, draconatos foram enviados de Abeir para Toril, a maioria deles vive no continente de Laerakond. Em Faerûn, a maioria dos draconatos reside na nação militarista de [Tymanther](../nations/Tymanther.md).
