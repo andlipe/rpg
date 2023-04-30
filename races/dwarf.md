@@ -52,4 +52,6 @@ Como um anão da montanha, você é forte e resistente, acostumados a uma vida d
 *Treinamento Anão com Armaduras*. Você adquire proficiência em armaduras leves e médias. 
 ![picture 9](../images/db28e6a2e576ffb8d5b0f1295bbfb8d7572bc80c442dd584a1e7befa99d8a8ed.png)  
 ![picture 10](../images/6452f3f60e9299fc16c0a24b8a493f923b77d9725f9ca3f4695cf1215a1474e0.png)  
+![picture 12](../images/2ca6f8e462c70d722a29bec9ac8932231a11530675908a950624c26e4d5a1697.png)  
+
 

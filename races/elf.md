@@ -40,6 +40,8 @@ ainda mais específica.
 *Truque*: Você conhece um truque, à sua escolha, da lista de truques do mago. Inteligência é a habilidade usado para conjurar este truque.
 
 *Idioma Adicional*: Você pode falar, ler e escrever um idioma adicional à sua escolha. 
+![picture 1](../images/47960d70af3ddb172f1bf10c3e24a2746beb300a811f183abda7a0b32767f8e1.png)  
+![picture 2](../images/4725392aae29190cc6f9835adc39f1e812e258ff9819890cae4bb935bfae741d.png)  
 
 ### ELFO DA FLORESTA
 
@@ -50,6 +52,8 @@ ainda mais específica.
 *Pés Ligeiros*: Seu deslocamento base de caminhada aumenta para 10,5 metros.
 
 *Máscara da Natureza*: Você pode tentar se esconder mesmo quando você está apenas levemente obscurecido por folhagem, chuva forte, neve caindo, névoa ou outro fenômeno natural. 
+![picture 3](../images/fa14918d9c1a2c12939a3297e75a6bc7ca621f2d2cbdf3b932109504bfc8266b.png)  
+![picture 4](../images/5d74e4096f1ee17bed3253600639fca166e1fb6b77fbb49ca7c2e696f5cb6a3d.png)  
 
 ### DROW
 
@@ -62,3 +66,6 @@ Sensibilidade à Luz Solar. Você possui desvantagem nas jogadas de ataque e tes
 conjurar essas magias.
 
 *Treinamento Drow com Armas*: Você possui proficiência com rapieiras, espadas curtas e bestas de mão. 
+
+![picture 5](../images/ad452c8d458db891c3c2a60ef923ee7d73625385a99cb2a543f46f95199bf636.png)  
+![picture 6](../images/ae18c0feda2c8f7f40bae9d35bc3478985a5bd87cad781332ff19417b3674096.png)  
