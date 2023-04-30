@@ -42,6 +42,7 @@ ainda mais específica.
 *Idioma Adicional*: Você pode falar, ler e escrever um idioma adicional à sua escolha. 
 ![picture 1](../images/47960d70af3ddb172f1bf10c3e24a2746beb300a811f183abda7a0b32767f8e1.png)  
 ![picture 2](../images/4725392aae29190cc6f9835adc39f1e812e258ff9819890cae4bb935bfae741d.png)  
+![picture 8](../images/9c7ff6e9d5944a2d57e63a0d919789c4391e5f67bf4bdd4c65974b1edc16604e.png)  
 
 ### ELFO DA FLORESTA
 
@@ -54,6 +55,7 @@ ainda mais específica.
 *Máscara da Natureza*: Você pode tentar se esconder mesmo quando você está apenas levemente obscurecido por folhagem, chuva forte, neve caindo, névoa ou outro fenômeno natural. 
 ![picture 3](../images/fa14918d9c1a2c12939a3297e75a6bc7ca621f2d2cbdf3b932109504bfc8266b.png)  
 ![picture 4](../images/5d74e4096f1ee17bed3253600639fca166e1fb6b77fbb49ca7c2e696f5cb6a3d.png)  
+![picture 7](../images/feb7db80f52bbc2dbeaa7d0a7106a1236abf1d30c1eca580b1e5687d9b5ee33e.png)  
 
 ### DROW
 

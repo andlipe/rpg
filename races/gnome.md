@@ -33,6 +33,8 @@ Como um gnomo da floresta, você possui um traquejo natural com ilusões e veloc
 *Ilusionista Nato*: Você conhece o truque ilusão menor. Inteligência é a sua habilidade usada para conjurá-la.
 
 *Falar com Bestas Pequenas*: Através de sons e gestos, você pode comunicar ideias simples para Bestas pequenas ou menores. Gnomos da floresta amam os animais e normalmente possuem esquilos, doninhas, coelhos, toupeiras, pica-paus e outras criaturas como amados animais de estimação.
+![picture 1](../images/b96ad9387f6d0e328167fc6f5833942f2f50aa0364c8972af78b84ee8da84d6f.png)  
+![picture 2](../images/01e46f1e9381fff563a1a49eafa174ee5eda62db9857e1af0795934d5444c73b.png)  
 
 ### GNOMO DAS ROCHAS
 
@@ -78,3 +80,6 @@ seguintes opções:
     música toca uma canção a um volume
     moderado. A caixa para de tocar quando alcança
     o fim da música ou quando é fechada.
+    
+![picture 5](../images/7c6c96c71227d80d390f11da143fe5cea54d14c6ee34decb1f01df1b6e310f2b.png)  
+![picture 6](../images/3e5adea7f440528f54c005b5846685dece8c0ccc58fd36b2dbfd4f0f6969d8c9.png)  

@@ -11,3 +11,6 @@
 [Halfling](races/halfling.md)
 
 [Gnomo](races/gnome.md)
+
+[Meio-Elfo](races/halfelf.md)
+

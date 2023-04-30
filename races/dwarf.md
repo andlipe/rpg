@@ -39,10 +39,13 @@ Como um anão da colina, você tem sentidos aguçados, maior intuição e notáv
   
 Os anões de ouro, também conhecidos como anões da colina, originalmente viviam na Grande Fenda, porem apos a Praga Mágica e a queda da [Grande Fenda](../nations/greatRift.md) para o Underdark se dividiram em algumas regioes. 
 
-Atualmente eles se dividem entre algumas regioes [Fenda Leste](../nations/eastRift.md), [As montanhas Corridas de Gigante] e as [Montanhas Esfumacadas]
+
+#### Pátrias
+Em contraste com seus irmãos anões do escudo, os anões de ouro mantiveram seu reino, o [Reino Profundo](../nations/deep.md), intacto e forte contra os ataques de outras raças. Anões de ouro também podem ser encontrados nas [Montanhas Fumegantes](../nations/smokingMountains.md), bem como nas [As montanhas da Corrida do Gigante](../nations/giant'sRunMountains.md), a oeste de Vilhon Reach.
 
 ![picture 8](../images/6ae9029535e8285cc11855741d39f4db85beb8b59e21fe83bf96271e8abbb52e.png)  
 ![picture 11](../images/4af8ea43a3e1960dcdb75b87115ab09f177d61f349619544fee25044db715045.png)  
+
 
 ### ANÃO DA MONTANHA OU ANÃO DO ESCUDO
 Como um anão da montanha, você é forte e resistente, acostumados a uma vida difícil em terrenos difíceis. Você, provavelmente tem a descendência daqueles mais altos (para um anão) e tende a possuir uma coloração mais clara. Os anões do escudo do norte de Faerûn, bem como o clã governante Hylar e os clãs nobres Daewar de Dragonlance, são anões da montanha.
@@ -54,4 +57,7 @@ Como um anão da montanha, você é forte e resistente, acostumados a uma vida d
 ![picture 10](../images/6452f3f60e9299fc16c0a24b8a493f923b77d9725f9ca3f4695cf1215a1474e0.png)  
 ![picture 12](../images/2ca6f8e462c70d722a29bec9ac8932231a11530675908a950624c26e4d5a1697.png)  
 
+
+#### Pátrias
+As terras ancestrais dos anões do escudo estavam localizadas principalmente no norte. Anões do escudo também podem ser encontrados em Damara, Vaasa, the Vast e Western Heartlands. De todas as suas fortalezas, a mais importante era provavelmente a Cidadela Adbar. No entanto, enquanto os anões do escudo mantiveram muitas terras próprias, gerações de emigração pelos Wanderers fizeram com que uma vasta diáspora de anões do escudo se espalhasse pelas terras humanas. Essas comunidades dispersas geralmente se aproximavam de um clã anão tradicional, mantendo seus próprios caminhos enquanto se integravam à comunidade local.
 
